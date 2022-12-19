@@ -12,6 +12,13 @@ This repository contrains the code for the above mentioned paper. The project su
 
 ![teaser](https://github.com/imkegrabe/fashionstyle-generation-GMM/blob/main/images/ev-model.png)
 
+## Dataset
+Authors use fashion-gen dataset, but I can't find it...
+I filled the form but didn't get mail!
+I have searched a lot and finally found train and validation data!
+Here you go:
+https://drive.google.com/drive/folders/1DyiDRVvVc7HqDah9BQZGDCQW7KeiH6MY?usp=share_link
+
 ## Requirements
 
 Python 3.6.9 <br/> 
