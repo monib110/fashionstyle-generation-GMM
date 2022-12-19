@@ -30,8 +30,7 @@ FashionGen dataset: https://fashion-gen.com/ <br/>
 ## Dataset
 Rostamzadeh, N., Hosseini, S., Boquet, T., Stokowiec, W., Zhang, Y., Jauvin, C., Pal, C.: Fashion-Gen: The Generative Fashion Dataset and Challenge. arXiv preprint arXiv:1806.08317 (2018)
 
-Authors use fashion-gen dataset, but I can't find it... <br/> 
-I filled the form but didn't get mail! <br/> 
+I can't find fashion-gen dataset... I filled the form in the link above, but didn't get mail! <br/> 
 I have searched a lot and finally found train and validation data! <br/> 
 Here you go: <br/> 
 https://drive.google.com/drive/folders/1DyiDRVvVc7HqDah9BQZGDCQW7KeiH6MY?usp=share_link
