@@ -12,13 +12,6 @@ This repository contrains the code for the above mentioned paper. The project su
 
 ![teaser](https://github.com/imkegrabe/fashionstyle-generation-GMM/blob/main/images/ev-model.png)
 
-## Dataset
-Authors use fashion-gen dataset, but I can't find it...
-I filled the form but didn't get mail!
-I have searched a lot and finally found train and validation data!
-Here you go:
-https://drive.google.com/drive/folders/1DyiDRVvVc7HqDah9BQZGDCQW7KeiH6MY?usp=share_link
-
 ## Requirements
 
 Python 3.6.9 <br/> 
@@ -36,6 +29,13 @@ FashionGen dataset: https://fashion-gen.com/ <br/>
 
 ## Dataset
 Rostamzadeh, N., Hosseini, S., Boquet, T., Stokowiec, W., Zhang, Y., Jauvin, C., Pal, C.: Fashion-Gen: The Generative Fashion Dataset and Challenge. arXiv preprint arXiv:1806.08317 (2018)
+
+Authors use fashion-gen dataset, but I can't find it... <br/> 
+I filled the form but didn't get mail! <br/> 
+I have searched a lot and finally found train and validation data! <br/> 
+Here you go: <br/> 
+https://drive.google.com/drive/folders/1DyiDRVvVc7HqDah9BQZGDCQW7KeiH6MY?usp=share_link
+
 
 ## Citation
 --------
